@@ -27,7 +27,6 @@
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/590ca17d-5a31-427c-816d-975478542bcd)
 
-
 ## Velocity diagram
 ###  Scale: 10 m/s = 100 mm (say) 
 ###  1. The fixed point C appears as a stationary point in the velocity diagram 
@@ -35,18 +34,9 @@
 ###  3. At b, draw a projection line perpendicular to AB from the configuration diagram 
 ###  4. Draw a horizontal at c, meeting the projection from b at a. join ca to complete the velocity diagram.
 
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/23ca1772-5a92-4b8b-a8bc-e149da33d297)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/d1412f9a-dcab-4433-a9a5-b5d6d19257b9)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/b703f1f3-def1-4fd9-a9da-6b5c4d57b632)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
-
 ## Output
 ![empd exp 2  1](https://github.com/user-attachments/assets/02085d63-75b3-4b5b-9837-6c85960a3108)
 ![empd exp 2 2](https://github.com/user-attachments/assets/08ba6d59-12ff-411e-a232-04b7da192279)
-
 
 ### Name: c r sudeep raj
 ### Register Number: 24013567
